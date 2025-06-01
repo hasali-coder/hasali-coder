@@ -2,20 +2,20 @@
   <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200" alt="Tech Banner"/>
 </p>
 
-<h1 align="center">👋🏽 Hey, I’m Muange Ali C.</h1>
+<h1 align="center">👋🏽 Hey, I’m Muange </h1>
 <h3 align="center">Fullstack Developer • AI Engineer • Systems Integrator • Tech Generalist</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ali-cosmas-muange-514b4a209/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
-  <a href="https://www.kaggle.com/alimuange" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Explore-black?logo=kaggle" />
   </a>
-  <a href="mailto:alimuange@gmail.com">
+  <a href="#">
     <img src="https://img.shields.io/badge/Email-Say%20Hi-red?logo=gmail" />
   </a>
-  <a href="https://wa.me/254746126579" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Chat-WhatsApp-25D366?logo=whatsapp&logoColor=white" />
   </a>
 </p>
